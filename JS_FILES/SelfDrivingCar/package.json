@@ -1,0 +1,11 @@
+{
+  "name": "selfdrivingcar",
+  "version": "1.0.0",
+  "description": "Self Driving Car using Vanilla JS without use of any Libraries(by Rado)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Gupta",
+  "license": "ISC"
+}
